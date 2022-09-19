@@ -1,4 +1,1 @@
-Meu primeiro sistema no git.
-
-alteração lalala.
-alteração no master abublé.
+Meu primeiro sistema no git. (Alterado e atualizado :D)
